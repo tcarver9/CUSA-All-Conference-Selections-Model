@@ -1,0 +1,7 @@
+validation,train_seasons,season,hits_at_15,recall_at_15,eligible_players,n_actual
+time_based,<=2020,2021,8,1,31,8
+time_based,<=2020,2022,8,0.8,55,10
+time_based,<=2020,2023,11,1,43,11
+time_based,<=2020,2024,11,0.7333333333333333,53,15
+time_based,<=2020,2025,11,0.7333333333333333,54,15
+time_based,<=2020,2026,10,0.6666666666666666,66,15

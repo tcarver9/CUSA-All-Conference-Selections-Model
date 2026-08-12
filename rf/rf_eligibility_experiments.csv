@@ -1,0 +1,5 @@
+label,mean_recall_at_15,mean_hits,median_hits,hits_2025,seasons_ge_10,seasons_ge_12,n_seasons
+equal_full_pool,0.4835447538572539,5.5625,6,7,0,0,16
+equal_eligible_only,0.8006911491286491,9.375,9,10,7,2,16
+reweight_full_pool,0.4804655414030414,5.5,5.5,7,0,0,16
+reweight_eligible_only,0.8097383519258519,9.5,10,10,9,1,16
